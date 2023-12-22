@@ -44,4 +44,9 @@ class DietPlannerTest {
                 () -> assertEquals(expected.getCalories(), actual.getCalories())
         );
     }
+
+    @Test
+    void checkTheschedule(){
+        System.out.println("Hello world");
+    }
 }
