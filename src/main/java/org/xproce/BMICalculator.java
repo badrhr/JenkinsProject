@@ -3,7 +3,7 @@ package org.xproce;
 import java.util.Comparator;
 import java.util.List;
 
-//test the auto build 
+//test the auto build every minute polling
 //body mass index
 public class BMICalculator {
 
